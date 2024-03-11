@@ -1,9 +1,9 @@
-@import url("/aluraBooks/assets/styles/header.css");
-@import url("/aluraBooks/assets/styles/banner.css");
-@import url("/aluraBooks/assets/styles/carrosel.css");
-@import url("/aluraBooks/assets/styles/rodape.css");
-@import url("/aluraBooks/assets/styles/contato.css");
-@import url("/aluraBooks/assets/styles/tópicos.css");
+@import url("assets/styles/header.css");
+@import url("assets/styles/banner.css");
+@import url("assets/styles/carrosel.css");
+@import url("assets/styles/rodape.css");
+@import url("assets/styles/contato.css");
+@import url("assets/styles/tópicos.css");
 
 
 :root {
